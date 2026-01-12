@@ -2,7 +2,7 @@
 
 🎓 Computer Science-Information Technology Undergraduate (2nd Year)  
 💻 Skills: C++, Data Structures & Algorithms, HTML, CSS, JavaScript  
-🚀 Aspiring Software Engineer | Web & Problem Solving  
+🚀 Aspiring Software Engineer | Web & DSA Problem Solving  
 
 ### 🔧 Technical Skills
 - Programming: C++,C,Python
